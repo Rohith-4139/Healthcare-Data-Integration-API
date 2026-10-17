@@ -1,4 +1,4 @@
-# FHIR Full-Stack Architecture Playground
+# Healthcare-Data-Integration-API
 
 ## Table of Contents
 - [Components](#components)
